@@ -1,0 +1,66 @@
+html, body
+{
+	height: 100%;
+	width: 50%;
+	padding-left: 280px;
+}
+
+.btn
+{
+	width: 66px;
+	padding: 20px;
+	margin: 0 3px;
+	border: 2px solid black;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+button:hover{
+            background-color: pink;
+        }
+.row
+{
+	margin: 9px 0;
+}
+
+.input
+{
+	width: 290px;
+	font-size: 19px;
+	margin: 0;
+	padding: 10px 0px;
+	border: 2px solid black;
+	border-radius: 10px;
+}
+.middle
+{
+	text-align: center;
+}
+
+.bg-black
+{
+	background: deepskyblue;
+}
+.auto
+{
+	margin: auto;
+}
+
+.flex
+{
+	display: flex;
+}
+
+.flex-col
+{
+	flex-direction: column;
+}
+
+.items-center
+{
+	align-items: center;
+}
+.container
+{
+	border-radius: 30px;
+}
